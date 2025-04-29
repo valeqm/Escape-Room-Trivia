@@ -1,0 +1,5 @@
+requests
+fpdf
+Pillow
+pytest
+fpdf2
