@@ -112,12 +112,12 @@ Choose an option:
 
 1. Download the folder:
    ```bash
-   git clone 
+   git clone https://github.com/valeqm/Escape-Room-Trivia.git
    ```
 
 2. Navigate into the project folder:
    ```bash
-   cd 
+   cd Escape-Room-Trivia
    ```
 
 3. Install the required libraries:
